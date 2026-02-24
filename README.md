@@ -1,4 +1,4 @@
-# 🏀 NBA 2023 Player Statistics — Web Scraping & Data Visualization
+# 🏀 NBA 2023 Player Statistics - Web Scraping & Data Visualization
 
 A data science project that collects, processes, and visualizes **NBA player statistics for the 2022–2023 season** using web scraping from [Basketball Reference](https://www.basketball-reference.com/).  
 The project is implemented in both **Python** and **R**, delivering identical analyses through two separate scripts.
